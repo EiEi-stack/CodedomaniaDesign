@@ -9,6 +9,7 @@
     tools:context=".MainActivity">
 
    <Button
+       android:id="@+id/buttonOne"
        style="@style/code_button_style"
        android:background="@drawable/button_one_back"
        android:text="Button"/>

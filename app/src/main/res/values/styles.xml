@@ -23,4 +23,8 @@
     <item name="android:shadowRadius">5</item>
 
 </style>
+    <style name="cal_button_style_one">
+        <item name="android:background">#444</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
 </resources>
